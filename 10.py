@@ -1,0 +1,10 @@
+mahsulot=input("Mahsulot:")
+narx=float(input("Narx:"))
+soni=int(input("Soni:"))
+
+print("------Chek------")
+print(f"Mahsulot:{mahsulot.title()}")
+print(f"Narx:{narx} so'm")
+print(f"Soni:{soni}")
+print(f"Jami:{narx*soni} so'm")
+print("----------------")
