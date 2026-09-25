@@ -4,4 +4,4 @@ familya=input("Familiya:")
 ism=ism.title()
 familya=familya.title()
 
-print(ism,familya)
+print(f"To'liq ism: {ism} {familya}")
